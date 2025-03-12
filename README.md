@@ -2,9 +2,7 @@
 
 Este projeto é um formulário de login simples e responsivo, criado com o framework Bootstrap 5.3. Ele demonstra o uso de elementos modernos de interface e design responsivo para criar uma experiência de usuário intuitiva.
 
-## Demonstração
-
-<img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" alt="Logo do Bootstrap" width="100">
+## [Vizualize o projeto clicando aqui](https://yudiyamada.github.io/formulario-com-bootstrap/) ##
 
 ### Exemplo da página
 
@@ -52,4 +50,3 @@ Este formulário utiliza o framework [Bootstrap 5.3](https://getbootstrap.com/) 
 ## Licença
 
 Este projeto está disponível sob a licença MIT. Sinta-se à vontade para utilizá-lo, modificá-lo e distribuí-lo!
-```
